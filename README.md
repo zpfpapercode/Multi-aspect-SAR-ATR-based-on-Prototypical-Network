@@ -1,2 +1,4 @@
 # Multi-aspect-SAR-ATR-based-on-Prototypical-Network
-We are finishing the relevant code and will release it soon.
+This is part of the code of our paper, you can read explantion.txt for details.
+Our code reference from: https://github.com/orobix/Prototypical-Networks-for-Few-shot-Learning-PyTorch
+
