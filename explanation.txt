@@ -1,0 +1,3 @@
+This code is not very complete, but it can run.
+The backbone CNN is a multi-channel VggNet11, which can be replaced with ResNet18, AlexNet, etc.
+This code is missing the NLECA module mentioned in our paper. The code of this module is too ugly, I will optimize it and upload it.
